@@ -54,6 +54,9 @@ table th {
   background-color: #777;
   color: white;
 }
+tr:hover {
+  background-color: yellow;
+}
 
 th,
 td {
